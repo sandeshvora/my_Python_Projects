@@ -18,7 +18,7 @@ def print3largest(arr, arr_size):
     for i in range(0, arr_size):
 
         # If current element is greater
-        # than first
+        # than first one
         if arr[i] > first:
 
             third = second
