@@ -13,6 +13,7 @@ def print3largest(arr, arr_size):
         return
 
     third = first = second = -sys.maxsize
+    #check
 
     for i in range(0, arr_size):
 
